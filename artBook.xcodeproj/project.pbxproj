@@ -17,6 +17,7 @@
 		A26C37E02891BAC60050D032 /* artBookTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A26C37DF2891BAC60050D032 /* artBookTests.swift */; };
 		A26C37EA2891BAC60050D032 /* artBookUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A26C37E92891BAC60050D032 /* artBookUITests.swift */; };
 		A26C37EC2891BAC60050D032 /* artBookUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A26C37EB2891BAC60050D032 /* artBookUITestsLaunchTests.swift */; };
+		A26C37F92891BC6D0050D032 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A26C37F82891BC6D0050D032 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		A26C37E52891BAC60050D032 /* artBookUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = artBookUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A26C37E92891BAC60050D032 /* artBookUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = artBookUITests.swift; sourceTree = "<group>"; };
 		A26C37EB2891BAC60050D032 /* artBookUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = artBookUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A26C37F82891BC6D0050D032 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 			children = (
 				A26C37C52891BAC40050D032 /* AppDelegate.swift */,
 				A26C37C72891BAC40050D032 /* SceneDelegate.swift */,
+				A26C37F82891BC6D0050D032 /* SecondViewController.swift */,
 				A26C37C92891BAC40050D032 /* ViewController.swift */,
 				A26C37CB2891BAC40050D032 /* Main.storyboard */,
 				A26C37D12891BAC60050D032 /* Assets.xcassets */,
@@ -264,6 +267,7 @@
 				A26C37CA2891BAC40050D032 /* ViewController.swift in Sources */,
 				A26C37C62891BAC40050D032 /* AppDelegate.swift in Sources */,
 				A26C37D02891BAC40050D032 /* artBook.xcdatamodeld in Sources */,
+				A26C37F92891BC6D0050D032 /* SecondViewController.swift in Sources */,
 				A26C37C82891BAC40050D032 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
